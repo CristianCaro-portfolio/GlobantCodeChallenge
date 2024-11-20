@@ -13,7 +13,7 @@ project/
 │   └── models.py         # SQLAlchemy models for the database tables
 ├── routes/
 │   ├── data_upload.py    # Routes for uploading data
-├── env/                  # Virtual environment folder
+├── env/                  # Virtual environment folder in gitignore file
 ├── pdf_solution requirements files/ #take a look at the sql outputs, edr in dbeaver and the fastapi ui. 
 └── README.md             # Project documentation
 
