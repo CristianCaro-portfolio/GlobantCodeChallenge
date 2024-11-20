@@ -14,10 +14,15 @@ project/
 ├── routes/
 │   ├── data_upload.py    # Routes for uploading data
 ├── env/                  # Virtual environment folder in gitignore file
+├── requirements.txt/                  
 ├── pdf_solution requirements files/ #take a look at the sql outputs, edr in dbeaver and the fastapi ui. 
 └── README.md             # Project documentation
 
 ## Requirements
+
+run in your terminal: pip install -r requirements.txt
+
+contains the next requirements:
 
 Python 3.7 or later
 FastAPI
